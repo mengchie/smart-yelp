@@ -1,0 +1,12 @@
+.ant-modal-body {
+	max-height: 250px; 
+	overflow-y: scroll;
+}
+
+.ant-card-body {
+	max-height: 350px; 
+	overflow-y: scroll;
+}
+.ant-card .ant-card-bordered {
+	height: 56px;
+}

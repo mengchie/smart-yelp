@@ -1,0 +1,18 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "google-map-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meng",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.2",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "redis": "^2.7.1",
+    "socket.io": "^2.0.3"
+  }
+}

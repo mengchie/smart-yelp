@@ -1,0 +1,21 @@
+.custom-image img {
+  display: block;
+}
+.custom-card {
+  padding: 10px 16px;
+}
+.custom-card p {
+  color: #999;
+}
+.ant-card-bordered {
+	height: 355px;
+}
+
+.cards {
+   display:inline-block;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 355px;
+}
+
